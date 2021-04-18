@@ -1,0 +1,9 @@
+body
+{
+    border: seagreen;
+    align-content: left;
+    background-image:url("math-calc-background.jpg");
+}
+span{
+    background-color:wheat;
+}
